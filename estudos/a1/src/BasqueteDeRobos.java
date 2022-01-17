@@ -1,6 +1,8 @@
+
 import java.util.Scanner;
 
-public class BasqueteDeRobos{
+
+public class BasqueteDeRobos {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
         int D = teclado.nextInt();
