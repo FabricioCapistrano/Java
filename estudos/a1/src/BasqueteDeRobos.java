@@ -14,5 +14,6 @@ public class BasqueteDeRobos{
         else if(D > 1400){
             System.out.println("3");
         }
+        teclado.close();
     }
 }
